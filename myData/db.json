@@ -1,0 +1,63 @@
+{
+    "clientes":[
+        {
+            "Documento":"",
+            "Nombre":"",
+            "Apellido":"",
+            "Telefono":"",
+            "fecha de nacimiento":"",
+            "Ciudad":"",
+            "pais":"",
+            "Correo":""
+
+        }
+    ],
+    "rutasAereas":[
+        {
+            "idVuelo":"",
+            "nombreRuta":"",
+            "ciudadOrigen":"",
+            "ciudadDestino":"",
+            "millasRuta":"",
+            "valorMilla":""
+        }
+    ],
+    "flotaAerea":[
+        {
+            "idAereonave":"",
+            "cantPas":"",
+            "fechaCom":"",
+            "valorCom":"",
+            "numeroMatricula":""
+        }
+    ],
+    "compraTicket":[
+        {
+            "numeroTicket":"",
+            "documento":"",
+            "nombre":"",
+            "puertaAbordaje":""
+
+        }
+    ],
+    "personal":[{
+        "Documento":"",
+        "Nombre":"",
+        "Apellido":"",
+        "Telefono":"",
+        "fecha de nacimiento":"",
+        "cargo":""
+
+    }
+    ],
+    
+    "embargue":[{
+        "Documento":"",
+        "Nombre":"",
+        "idVuelo":"",
+        "fechaViaje":""
+    }]
+    
+
+
+}
