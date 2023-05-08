@@ -17,11 +17,15 @@ export class ListasVuelos extends HTMLElement{
                     <th>hora de salida </th>
                 </tr>
             </thead>
+            <tbody id="lista-clientes">
+
+            </tbody>
         </table>
         
     </div>
     `;
     }
-    
-}
+   
+    }
+
 customElements.define("listas-vuelos", ListasVuelos);
